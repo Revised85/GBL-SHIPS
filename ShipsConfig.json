@@ -129,7 +129,8 @@
           "z": 0.0000013046264712990308
         }
       },
-      "modelUrl": "https://raw.githubusercontent.com/Revised85/ShipsRepo/refs/heads/main/MPUV%20Cargo.glb"
+      "modelUrl": "https://raw.githubusercontent.com/Revised85/ShipsRepo/refs/heads/main/MPUV%20Cargo.glb",
+      "modelScale": 0.008
     },
     {
       "name": "MPUV Tractor",
@@ -145,7 +146,7 @@
             "position": {
               "x": 0,
               "y": 0,
-              "z": 0
+              "z": 0.6
             },
             "rotation": {
               "x": 0,
@@ -192,16 +193,17 @@
       ],
       "initialCamera": {
         "position": {
-          "x": 13.999999999999998,
-          "y": 10,
-          "z": 14.000000000000002
+          "x": 5.722976775419227,
+          "y": 5.740326454749788,
+          "z": 6.3071298515911085
         },
         "target": {
-          "x": 0,
-          "y": 0,
-          "z": 0
+          "x": 3.090369695213246e-65,
+          "y": 1.6524859008789066,
+          "z": 0.5841530761718752
         }
-      }
+      },
+      "modelUrl": "https://raw.githubusercontent.com/Revised85/GBL-SHIPS/refs/heads/main/Argo%20Astronautics/MPUV%20Tractor.glb"
     },
     {
       "name": "RAFT",
@@ -215,9 +217,9 @@
           },
           "transform": {
             "position": {
-              "x": 0,
-              "y": 4,
-              "z": 0
+              "x": 0.1,
+              "y": 3.8500000000000005,
+              "z": 6.799999999999984
             },
             "rotation": {
               "x": 3.141592653589793,
@@ -368,16 +370,18 @@
       ],
       "initialCamera": {
         "position": {
-          "x": 13.999999999999998,
-          "y": 10,
-          "z": 14.000000000000002
+          "x": 21.042712990854305,
+          "y": 19.748526593119493,
+          "z": 21.042712990855154
         },
         "target": {
           "x": 0,
-          "y": 0,
+          "y": 4.718017313937537,
           "z": 0
         }
-      }
+      },
+      "modelUrl": "https://raw.githubusercontent.com/Revised85/GBL-SHIPS/refs/heads/main/Argo%20Astronautics/RAFT.glb",
+      "modelScale": 1
     },
     {
       "name": "SRV",
@@ -391,14 +395,14 @@
           },
           "transform": {
             "position": {
-              "x": 0,
-              "y": 0,
-              "z": 0
+              "x": 0.0500000000000001,
+              "y": 1.0000000000000002,
+              "z": 1.0500000000000005
             },
             "rotation": {
-              "x": 0,
-              "y": 0,
-              "z": 0
+              "x": -6.283185307179586,
+              "y": 4.71238898038469,
+              "z": -9.42477796076938
             }
           },
           "ground": {
@@ -442,16 +446,17 @@
       ],
       "initialCamera": {
         "position": {
-          "x": 13.999999999999302,
-          "y": 9.999999999994897,
-          "z": 14.000000000004347
+          "x": 13.510691961788549,
+          "y": 12.413488766400073,
+          "z": 13.510691962274368
         },
         "target": {
-          "x": 0,
-          "y": 0,
-          "z": 0
+          "x": -3.965819367043561e-71,
+          "y": 2.7629945068359376,
+          "z": 4.534105457416678e-70
         }
-      }
+      },
+      "modelUrl": "https://raw.githubusercontent.com/Revised85/GBL-SHIPS/refs/heads/main/Argo%20Astronautics/SRV.glb"
     }
   ],
   "Aegis": [
@@ -468,8 +473,8 @@
           "transform": {
             "position": {
               "x": 0,
-              "y": 0,
-              "z": 0
+              "y": 1.0500000000000003,
+              "z": 2.3
             },
             "rotation": {
               "x": 0,
@@ -516,16 +521,17 @@
       ],
       "initialCamera": {
         "position": {
-          "x": 13.999999999999998,
-          "y": 10,
-          "z": 14.000000000000002
+          "x": 10.195509724288373,
+          "y": 9.4439731324437,
+          "z": 10.195509724288375
         },
         "target": {
-          "x": 0,
-          "y": 0,
-          "z": 0
+          "x": -6.506237570898108e-173,
+          "y": 2.1614661865234375,
+          "z": 2.1676916829233214e-172
         }
-      }
+      },
+      "modelUrl": "https://raw.githubusercontent.com/Revised85/GBL-SHIPS/refs/heads/main/Aegis%20Dynamics/Avenger%20Titan.glb"
     },
     {
       "name": "Avenger Titan Renegade",
@@ -540,8 +546,8 @@
           "transform": {
             "position": {
               "x": 0,
-              "y": 0,
-              "z": 0
+              "y": 1.0500000000000003,
+              "z": 2.3
             },
             "rotation": {
               "x": 0,
@@ -588,16 +594,17 @@
       ],
       "initialCamera": {
         "position": {
-          "x": 13.999999999999998,
-          "y": 10,
-          "z": 14.000000000000002
+          "x": 10.195509724288373,
+          "y": 9.4439731324437,
+          "z": 10.195509724288375
         },
         "target": {
-          "x": 0,
-          "y": 0,
-          "z": 0
+          "x": -4.130809873204648e-126,
+          "y": 2.1614661865234375,
+          "z": 1.3762673293602436e-125
         }
-      }
+      },
+      "modelUrl": "https://raw.githubusercontent.com/Revised85/GBL-SHIPS/refs/heads/main/Aegis%20Dynamics/Avenger%20Titan%20Renegade.glb"
     },
     {
       "name": "Hammerhead",
@@ -612,8 +619,8 @@
           "transform": {
             "position": {
               "x": 0,
-              "y": 0,
-              "z": 0
+              "y": 1.8500000000000008,
+              "z": 22.350000000000183
             },
             "rotation": {
               "x": 0,
@@ -674,16 +681,17 @@
       ],
       "initialCamera": {
         "position": {
-          "x": 13.999999999999998,
-          "y": 10,
-          "z": 14.000000000000002
+          "x": 51.942840291643314,
+          "y": 43.66475412154208,
+          "z": 51.94284029164332
         },
         "target": {
-          "x": 0,
-          "y": 0,
-          "z": 0
+          "x": -1.7367687373804844e-47,
+          "y": 6.562725341796876,
+          "z": 4.918090078515462e-47
         }
-      }
+      },
+      "modelUrl": "https://raw.githubusercontent.com/Revised85/GBL-SHIPS/refs/heads/main/Aegis%20Dynamics/Hammerhead.glb"
     },
     {
       "name": "Hammerhead Best In Show Edition 2949",
@@ -698,8 +706,8 @@
           "transform": {
             "position": {
               "x": 0,
-              "y": 0,
-              "z": 0
+              "y": 1.850000000000001,
+              "z": 22.350000000000183
             },
             "rotation": {
               "x": 0,
@@ -760,16 +768,17 @@
       ],
       "initialCamera": {
         "position": {
-          "x": 13.999999999999998,
-          "y": 10,
-          "z": 14.000000000000002
+          "x": 51.942840291643314,
+          "y": 43.66475412154208,
+          "z": 51.94284029164332
         },
         "target": {
-          "x": 0,
-          "y": 0,
-          "z": 0
+          "x": -1.7367687373804844e-47,
+          "y": 6.562725341796876,
+          "z": 4.918090078515462e-47
         }
-      }
+      },
+      "modelUrl": "https://raw.githubusercontent.com/Revised85/GBL-SHIPS/refs/heads/main/Aegis%20Dynamics/Hammerhead%20Best%20In%20Show%20Edition%202949.glb"
     },
     {
       "name": "Idris-P",
@@ -833,7 +842,7 @@
                   4
                 ]
               ],
-              "maxScu": 16
+              "maxScu": 4
             },
             {
               "id": "sg-3-1762562025881",
@@ -1404,6 +1413,69 @@
                 ]
               ],
               "maxScu": 16
+            },
+            {
+              "id": "sg-99-1763843844809",
+              "name": "SUBGRID#17",
+              "maxScu": 4,
+              "origin": {
+                "x": 7,
+                "z": 6
+              },
+              "size": {
+                "x": 6,
+                "z": 6
+              },
+              "heights": [
+                [
+                  8,
+                  8,
+                  8,
+                  8,
+                  8,
+                  8
+                ],
+                [
+                  8,
+                  8,
+                  8,
+                  8,
+                  8,
+                  8
+                ],
+                [
+                  8,
+                  8,
+                  8,
+                  8,
+                  8,
+                  8
+                ],
+                [
+                  8,
+                  8,
+                  8,
+                  8,
+                  8,
+                  8
+                ],
+                [
+                  8,
+                  8,
+                  8,
+                  8,
+                  8,
+                  8
+                ],
+                [
+                  8,
+                  8,
+                  8,
+                  8,
+                  8,
+                  8
+                ]
+              ]
             }
           ],
           "name": "Hangar"
@@ -7638,8 +7710,8 @@
           "transform": {
             "position": {
               "x": 0,
-              "y": 0.5,
-              "z": 2
+              "y": 1.4000000000000008,
+              "z": 4.89999999999999
             },
             "rotation": {
               "x": 0,
@@ -7766,9 +7838,9 @@
           },
           "transform": {
             "position": {
-              "x": 0,
-              "y": 0,
-              "z": 3
+              "x": -1.3877787807814457e-17,
+              "y": 0.9000000000000002,
+              "z": 6.049999999999989
             },
             "rotation": {
               "x": 0,
@@ -7809,13 +7881,13 @@
           },
           "transform": {
             "position": {
-              "x": 2.767766952966369,
+              "x": 4.181980515339461,
               "y": 0,
-              "z": -2.060660171779821
+              "z": -0.3636038969321085
             },
             "rotation": {
               "x": 0,
-              "y": -0.7853981633974483,
+              "y": 6.283185307179586,
               "z": 0
             }
           },
@@ -7898,7 +7970,8 @@
           "y": 0,
           "z": 0
         }
-      }
+      },
+      "modelUrl": "https://raw.githubusercontent.com/Revised85/GBL-SHIPS/refs/heads/main/Gatac%20Manufacture/Syulen.glb"
     }
   ],
   "MISC": [
@@ -8640,7 +8713,55 @@
   "Origin": [
     {
       "name": "100i",
-      "cargo": 2
+      "cargo": 2,
+      "grids": [
+        {
+          "id": "grid-99-1763814027914",
+          "name": "GRID#01",
+          "size": {
+            "x": 1,
+            "z": 2
+          },
+          "transform": {
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            }
+          },
+          "ground": {
+            "yLocal": 0
+          },
+          "subgrids": [
+            {
+              "id": "sg-101-1763814046619",
+              "name": "SUBGRID#1",
+              "maxScu": 2,
+              "origin": {
+                "x": 0,
+                "z": 0
+              },
+              "size": {
+                "x": 1,
+                "z": 2
+              },
+              "heights": [
+                [
+                  1
+                ],
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "125a",
